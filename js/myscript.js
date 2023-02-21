@@ -7,4 +7,4 @@ console.log(`Your name is ${myName}, your surname is ${mySurname}, and your favo
 
 // this is what appear on the browser
 const userInfoElement = document.getElementById("user-info");
-userInfoElement.textContent = `Hello my name is ${myName} ${mySurname}, and your favorite color is ${myFavoriteColor}.`;
+userInfoElement.textContent = `Hello my name is ${myName} ${mySurname}, and my favorite color is ${myFavoriteColor}.`;
